@@ -1,0 +1,19 @@
+.header {
+    background-color: rgb(30, 40, 40);
+    font-family: palatino, urw palladino;
+    color: rgb(138, 172, 202);
+    font-size: 60px;
+    padding-left: 40px;
+}
+
+.photos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+ img {
+    margin: 20px;
+    width: 800px;
+    height: auto;
+}
